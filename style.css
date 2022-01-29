@@ -25,3 +25,14 @@ a:hover{
     color:var(--yellow);
     opacity: 80%;
 }
+h4{
+    font-weight:750;
+    font-size:200%;
+}
+.profilePic{
+    border-radius: 100px;
+}
+p{
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif ;
+}
