@@ -1,0 +1,27 @@
+:root{
+    --grey:#c5c1c0;
+    --black: #0a1612;
+    --darkBlue:#1a2930;
+    --yellow:#f7ce3e;
+  }
+body{
+    background-color: var(--black);
+    color: white;
+}
+.my-name{
+    font-size: 200%;
+}
+.nav{
+    background-color: var(--darkBlue);
+}
+.top-bar ul{
+    background-color: unset;
+}
+a{
+    font-size: larger;
+    color:var(--yellow);
+}
+a:hover{
+    color:var(--yellow);
+    opacity: 80%;
+}
